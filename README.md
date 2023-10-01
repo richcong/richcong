@@ -1,5 +1,5 @@
 ### 👋 Hi there, I'm Richard &nbsp; <img src="https://github.com/richcong/richcong/blob/main/Flag_of_Australia_(converted).svg" data-canonical-src="https://github.com/richcong/richcong/blob/main/Flag_of_Australia_(converted).svg" width="50" height="20" />
-<img src="https://github.com/richcong/richcong/blob/main/anime-photo.jpg" data-canonical-src="https://github.com/richcong/richcong/blob/main/anime-photo.jpg" width="1000" height="571" />
+<img src="https://github.com/richcong/richcong/blob/main/anime-photo.jpg" data-canonical-src="https://github.com/richcong/richcong/blob/main/anime-photo.jpg" width="800" height="457" />
 
 I'm a front end software developer currently working for the Australian Government 
 
